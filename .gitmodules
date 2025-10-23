@@ -1,6 +1,6 @@
 [submodule "third_party/gtest"]
 	path = third_party/gtest
-	url = https://chromium.googlesource.com/external/googletest/
+	url = https://github.com/google/googletest.git
 [submodule "testdata"]
 	path = testdata
 	url = https://github.com/html5lib/html5lib-tests.git
